@@ -1,3 +1,5 @@
+#Spyware 
+
 ⚠️ WARNING: LEGAL AND ETHICAL DISCLAIMER
 This software is provided for EDUCATIONAL PURPOSES ONLY.
 Creating, distributing, or using spyware without explicit permission from the target device owner is ILLEGAL in most jurisdictions and violates privacy laws. Unauthorized surveillance can result in severe criminal penalties, civil lawsuits, and ethical violations.
